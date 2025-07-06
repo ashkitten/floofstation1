@@ -50,6 +50,17 @@
     Holy: 5.0
 
 - type: damageModifierSet
+  id: CorporealFireSpirit
+  coefficients:
+    Cold: 1.5
+    Shock: 0.5
+    Heat: -0.25
+    Blunt: 0.5
+    Slash: 0.5
+    Piercing: 0.5
+    Holy: 5.0
+
+- type: damageModifierSet
   id: ShockAbsorber
   coefficients:
     Blunt: 0.7
